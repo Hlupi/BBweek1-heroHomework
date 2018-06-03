@@ -1,0 +1,38 @@
+body {
+  font-family: Merienda;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  align-items: center;
+  align-content: center;
+}
+
+img {
+  width: 390px;
+  height: 290px;
+  border-radius: 5px;
+  margin: 5px auto;
+
+}
+
+.displayInfo {
+  width: 390px;
+  height: 190px;
+  text-align: center;
+  margin: 5px auto;
+  border: solid;
+  border-radius: 5px;
+  border-color: brown;
+}
+
+p {
+text-align: center;
+vertical-align: middle;
+}
