@@ -2,7 +2,7 @@
 
 ## Section 3 - User interface and the DOM
 
-- Add a picture of a bed or an inn to your page. When it is clicked by the user the `rest` function should get called with `hero` as an argument. Put a console.log in your code to verify that `rest` gets called correctly.
+-  to your page. When a picture of a bed or an inn is clicked by the user the `rest` function should get called with `hero` as an argument. Put a console.log in your code to verify that `rest` gets called correctly.
 
 - Add a picture of a weapon to the page. When it is clicked by the user the `pickUpItem` should get called with `hero` as a first argument. The second argument should be an object. The object should have a `type` key with a string value and a `damage` key with a number value (like a weapon object). Put a console.log in your code to verify that `pickUpItem` gets called correctly.
 
